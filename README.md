@@ -19,4 +19,5 @@ Il a pour but lister et expliquer le Lexique rencontré au cours de cette premi�
 > 8. **GitHub**: Site internet servant de *vitrine de partage* au code versionné sur Git envoyé par les développeurs du monde entier.
 > 9. **HTML**: Langage de programmation *structurel* permettant d'organiser les information affichées par le navigateur qui l'interprète.
 > 10. **Intégrateur**: Développeur web *front-end*, souvent confondu avec le développeur web *back-end*.
-> 11. **JavaScript**: Langage de programmation interprété par le navigateur permettant de *dynamiser* un site internet.
+> 11. **Interprété**: Dit d'un langage que le navigateur sait *lire et traduire* par un résultat visuel à l'écran (*HTML*, *CSS*, *JavaScript*).
+> 12. **JavaScript**: Langage de programmation interprété par le navigateur permettant de *dynamiser* un site internet.
