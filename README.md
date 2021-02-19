@@ -26,3 +26,4 @@ Il a pour but lister et expliquer le Lexique rencontré au cours de cette premi�
 > 15. **PHP**: Langage de programmation serveur.
 > 16. **Serveur**: Appareil informatique relié à un réseau permettant de gérer les accès à des *ressources*.
 > 17. **Terminal**: *Point d'accès* de communication entre l'homme et la machine.
+> 18. **Versionner**: Pratique permettant de garder un historique des versions d'un ou plusieurs fichiers.
