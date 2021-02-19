@@ -13,3 +13,4 @@ Il a pour but lister et expliquer le Lexique rencontré au cours de cette premi�
 > 2. **Base de données**: Système organisationnel permettant de stocker des données de façon structurée.
 > 3. **Client**: Nom donné au navigateur dans le protocole de communication Internet.
 > 4. **CSS**: Langage de mise en forme et mise en page additionnel au HTML.
+> 5. **Front-end**: Terme définissant la partie *visible* de la programmation d'un application, affichée par le Client.
