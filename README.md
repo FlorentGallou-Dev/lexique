@@ -18,3 +18,4 @@ Il a pour but lister et expliquer le Lexique rencontré au cours de cette premi�
 > 7. **Git**: Système utilisé au travers du terminal Bash pour *versionner* mon travail.
 > 8. **GitHub**: Site internet servant de *vitrine de partage* au code versionné sur Git envoyé par les développeurs du monde entier.
 > 9. **HTML**: Langage de programmation *structurel* permettant d'organiser les information affichées par le navigateur.
+> 10. **Intégrateur**: Développeur web *front-end*, souvent confondu avec le développeur web *back-end*.
