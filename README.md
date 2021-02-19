@@ -24,3 +24,4 @@ Il a pour but lister et expliquer le Lexique rencontré au cours de cette premi�
 > 13. **Ligne de commande**: Ordre passé, sous forme de *mots clés*, à un terminal.
 > 14. **Mot clé**: Mot en anglais *représentant* une *fonction de base* d'un langage de programmation.
 > 15. **PHP**: Langage de programmation serveur.
+> 16. **Serveur**: Appareil informatique relié à un réseau permettant de gérer les accès à des *ressources*.
