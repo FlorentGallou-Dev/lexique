@@ -1,6 +1,6 @@
 # Lexique du vocabulaire du web
 
-===============================
+----------
 
 J'ai créé ce fichier texte dans le cadre de ma formation AFPA - Développeur Web et Web Mobile 2021 comme évaluation clôture de la première semaine dédiée à Git et GitHub.
 Il a pour but lister et expliquer le Lexique rencontré au cours de cette première semaine.
@@ -28,3 +28,5 @@ Il a pour but lister et expliquer le Lexique rencontré au cours de cette premi�
 > 17. **Terminal**: *Point d'accès* de communication entre l'homme et la machine.
 > 18. **Versionner**: Pratique permettant de garder un historique des versions d'un ou plusieurs fichiers.
 > 19. **42**: La réponse à la grande question sur la vie, l'univers et le reste.
+
+----------
