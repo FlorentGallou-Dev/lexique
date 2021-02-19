@@ -21,3 +21,4 @@ Il a pour but lister et expliquer le Lexique rencontré au cours de cette premi�
 > 10. **Intégrateur**: Développeur web *front-end*, souvent confondu avec le développeur web *back-end*.
 > 11. **Interprété**: Dit d'un langage que le navigateur sait *lire et traduire* par un résultat visuel à l'écran (*HTML*, *CSS*, *JavaScript*).
 > 12. **JavaScript**: Langage de programmation interprété par le navigateur permettant de *dynamiser* un site internet.
+> 13. **Ligne de commande**: Ordre passé, sous forme de *mots clés*, à un terminal.
